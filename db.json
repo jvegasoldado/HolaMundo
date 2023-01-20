@@ -11,10 +11,6 @@
     {
         "ID_CLI": "1000001",
         "TRUCK_PROB": "0.5",
-        "VANS_PROB": "0.6",
-        "BUS_PROB": "0.7",
-        "CAR_PBB": "0.8",
-        "RUBRO_ECONOMICO": "null"
     }
     ]
 }
