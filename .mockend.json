@@ -24,6 +24,12 @@
     "isDraft": {
       "boolean": {}
     },
+    "ID_CLI": {
+      "loremParagraphs": {
+        "minLength": 10,
+        "maxLength": 100
+      }
+    },
     "views": {
       "int": {
         "min": 0,
