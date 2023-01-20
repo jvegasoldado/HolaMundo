@@ -7,10 +7,6 @@
         "BUS_PROB": "0.3",
         "CAR_PBB": "0.4",
         "RUBRO_ECONOMICO": "Rubro económico"
-    },
-    {
-        "ID_CLI": "1000001",
-        "TRUCK_PROB": "0.5",
     }
     ]
 }
