@@ -6,18 +6,6 @@
     "cover": {
       "regexp": "https://picsum\\.photos/seed/[0-9]{5}/1920/270"
     },
-    "title": {
-      "loremWords": {
-        "minLength": 5,
-        "maxLength": 20
-      }
-    },
-    "body": {
-      "loremParagraphs": {
-        "minLength": 10,
-        "maxLength": 100
-      }
-    },
     "category": {
       "string": ["one", "two", "three"]
     },
