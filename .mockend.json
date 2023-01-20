@@ -3,15 +3,6 @@
     "_": {
       "items": 10
     },
-    "cover": {
-      "regexp": "https://picsum\\.photos/seed/[0-9]{5}/1920/270"
-    },
-    "category": {
-      "string": ["one", "two", "three"]
-    },
-    "isDraft": {
-      "boolean": {}
-    },
     "ID_CLI": {
       "string": ["1000000", "1000001", "1000002"]
     },
