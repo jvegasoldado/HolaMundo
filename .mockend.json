@@ -1,12 +1,20 @@
 {
-  "posts2":[
+  "posts":[
     {
         "ID_CLI": "1000000",
         "TRUCK_PROB": "0.1",
         "VANS_PROB": "0.2",
         "BUS_PROB": "0.3",
         "CAR_PBB": "0.4",
-        "RUBRO_ECONOMICO": "Rubro económico"
+        "RUBRO_ECONOMICO": "Rubro economico"
+    },
+    {
+        "ID_CLI": "1000001",
+        "TRUCK_PROB": "0.5",
+        "VANS_PROB": "0.6",
+        "BUS_PROB": "0.7",
+        "CAR_PBB": "0.8",
+        "RUBRO_ECONOMICO": null
     }
     ]
 }
