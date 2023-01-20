@@ -14,7 +14,7 @@
         "VANS_PROB": "0.6",
         "BUS_PROB": "0.7",
         "CAR_PBB": "0.8",
-        "RUBRO_ECONOMICO": null
+        "RUBRO_ECONOMICO": "null"
     }
     ]
 }
