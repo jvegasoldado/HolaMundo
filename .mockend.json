@@ -21,18 +21,6 @@
     "RUBRO_ECONOMICO": {
       "string": ["Rubro economico", "null"]
     },
-    "views": {
-      "int": {
-        "min": 0,
-        "max": 1000
-      }
-    },
-    "createdAt": {
-      "dateTime": {
-        "min": "2010-01-01T00:00:00Z",
-        "max": "2020-12-31T23:59:59Z"
-      }
-    },
     "comments": {
       "hasMany": "Comment"
     }
