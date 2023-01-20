@@ -25,10 +25,7 @@
       "boolean": {}
     },
     "ID_CLI": {
-      "loremParagraphs": {
-        "minLength": 10,
-        "maxLength": 100
-      }
+      "string": ["1000000", "1000001", "1000002"]
     },
     "views": {
       "int": {
